@@ -30,8 +30,8 @@ Kullanıcı
 │  │  (IReservationService,   │   │         │  │  (IBookService)          │   │
 │  │   IBookApiClientService) │   │         │  ├──────────────────────────┤   │
 │  ├──────────────────────────┤   │         │  │  Veri Erişim Katmanı     │   │
-│  │  Veri Erişim Katmanı     │   │         │  │  (AppDbContext)           │   │
-│  │  (AppDbContext)           │   │         │  └──────────────────────────┘   │
+│  │  Veri Erişim Katmanı     │   │         │  │  (AppDbContext)          │   │
+│  │  (AppDbContext)          │   │         │  └──────────────────────────┘   │
 │  └──────────────────────────┘   │         │                                 │
 │           ▼                     │         │           ▼                     │
 │        ResDb                    │         │        LibDb                    │
