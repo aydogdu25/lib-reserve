@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "multi-start",
+    "Projects": [
+      {
+        "Path": "LibApp\\LibApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ResApp\\ResApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
